@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/claude-191919?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
